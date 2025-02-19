@@ -9,3 +9,5 @@
 - sklearn
 - tensorflow.keras
 - matplotlib
+## Влияние архитектуры на аппроксимацию данных
+![image](https://github.com/user-attachments/assets/4c649296-c865-4950-99e9-7422faee866e)
